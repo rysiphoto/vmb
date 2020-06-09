@@ -1,0 +1,55 @@
+#nice {
+  border-color: white;
+  box-shadow: none;
+  border: none;
+  padding: .78571429em .92857143em;
+  margin: 0 .35714286em;
+  background-color: white;
+  border-radius: .28571429rem;
+  transition: color .1s ease;
+  color: rgba(0,0,0,.87);
+  font-weight: 400;
+  font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+  font-size: 1rem;
+}
+
+#greeting {
+  font-size: 1rem;
+  text-transform: capitalize;
+  font-weight: 400;
+}
+
+.containerHome {
+  padding: 20px;
+}
+
+.tj {
+  font-weight: 500;
+}
+.containerHome {
+  padding: 20px;
+  max-width: 1024px;
+  border: 0px;
+  border-bottom: 0px;
+
+}
+
+.container {
+  padding: 20px;
+  max-width: 1024px;
+  border: 0px;
+  border-bottom: 0px;
+
+}
+
+
+.img-responsive {
+  height: 250px;
+  padding: 20px;
+
+}
+
+p {
+  font-size: 1.2rem;
+}
+
